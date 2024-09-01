@@ -23,7 +23,7 @@
 
     Precondition:
     1. Login with valid credentials
-    2. Search the book by title "Прислуга"
+    2. Search the book by title "Прислуга".
 
     STR:
     1. Click on the "Прислуга" book in the search results
